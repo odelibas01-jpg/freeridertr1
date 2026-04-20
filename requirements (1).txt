@@ -1,0 +1,10 @@
+flask
+supabase
+boto3
+botocore
+requests
+werkzeug
+google-auth
+google-api-python-client
+google-api-core
+gunicorn
